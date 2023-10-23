@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "brand_name": "Huawei",
+      "img": "https://i.ibb.co/DbZgqT7/640px-Huawei-Standard-logo-svg.png",
+      "products": ["Smartphones", "Laptops", "Smartwatches", "Tablets"]
+    },
+    {
+      "id": 2,
+      "brand_name": "Sony",
+      "img": "https://i.ibb.co/ts2jQKt/channels4-profile.jpg",
+      "products": ["Smartphones", "Televisions", "PlayStation", "Cameras", "Audio Devices"]
+    },
+    {
+      "id": 3,
+      "brand_name": "LG",
+      "img": "https://i.ibb.co/MnYN85R/download.png",
+      "products": ["Smartphones", "Televisions", "Home Appliances"]
+    },
+    {
+      "id": 4,
+      "brand_name": "Google",
+      "img": "https://i.ibb.co/jGh2zJh/google-square.webp",
+      "products": ["Smartphones (Pixel)", "Laptops (Chromebooks)", "Smart Home Products (Google Nest)"]
+    },
+    {
+      "id": 5,
+      "brand_name": "Microsoft",
+      "img": "https://i.ibb.co/KsMjJzx/new-microsoft-logo-SIZED-SQUARE-300x297-300x297.jpg",
+      "products": ["Laptops and Tablets (Surface)", "Gaming Consoles (Xbox)", "Software Products"]
+    },
+    {
+      "id": 6,
+      "brand_name": "Lenovo",
+      "img": "https://i.ibb.co/hyTNMxh/556c53ab6da8119307ecba19.webp",
+      "products": ["Laptops", "Tablets", "Smartphones", "Computer Hardware"]
+    }
+  ]
+  

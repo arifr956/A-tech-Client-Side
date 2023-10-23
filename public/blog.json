@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "TechBuzz",
+    "description": "TechBuzz is your one-stop destination for all things tech. We cover the latest gadgets, software updates, and tech industry news. Stay informed and stay ahead in the fast-paced world of technology.",
+    "image": "https://i.ibb.co/VTbKQ72/tech-blogs.jpg"
+  },
+  {
+    "id": 2,
+    "name": "CodeCrafters",
+    "description": "CodeCrafters is a blog dedicated to programming and software development. We provide tutorials, code samples, and tips to help you become a better developer. Join our coding community today.",
+    "image": "https://i.ibb.co/VTbKQ72/tech-blogs.jpg"
+  },
+  {
+    "id": 3,
+    "name": "GadgetGuru",
+    "description": "GadgetGuru brings you in-depth reviews and insights into the latest tech gadgets and consumer electronics. Whether you're looking for the best smartphone, laptop, or smart home devices, we've got you covered.",
+    "image": "https://i.ibb.co/VTbKQ72/tech-blogs.jpg"
+  },
+  {
+    "id": 4,
+    "name": "CyberSafeguard",
+    "description": "CyberSafeguard is your source for cybersecurity news and tips. We keep you informed about the latest threats and how to protect your online presence. Stay safe in the digital world.",
+    "image": "https://i.ibb.co/VTbKQ72/tech-blogs.jpg"
+  },
+  {
+    "id": 5,
+    "name": "AI Insights",
+    "description": "AI Insights explores the fascinating world of artificial intelligence and machine learning. Learn about the latest AI trends, research, and applications that are shaping our future.",
+    "image": "https://i.ibb.co/VTbKQ72/tech-blogs.jpg"
+  },
+  {
+    "id": 6,
+    "name": "NetworkNerds",
+    "description": "NetworkNerds is all about networking, from home setups to enterprise solutions. Our blog covers topics like routers, switches, and network security. Join us in the world of connectivity.",
+    "image": "https://i.ibb.co/VTbKQ72/tech-blogs.jpg"
+  }
+]
